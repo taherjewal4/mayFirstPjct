@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a080c0-a051-4f98-8bb8-e7de00404523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loopsInJava/AdvancedCoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopsInJava/ArrayClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rtnType/AmazonHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/EntryExecutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strProblem/TestStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MayJavaFirst/EngineOfEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MayJavaFirst/EngineOfEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EngineOfEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EngineOfEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MayJavaFirst/loopsInJava/ArrayClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MayJavaFirst/loopsInJava/ArrayClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,34 +25,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/calculator/NewCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/constructor/Home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EngineOfEntry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loopsInJava/AdvancedCoding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            <state relative-caret-position="242">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/loopsInJava/ArrayClass.java">
+        <entry file="file://$PROJECT_DIR$/src/strProblem/TestStrings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -62,55 +43,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticNoStatic/ExeEngine.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="-1822">
+              <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticNoStatic/Implementations.java">
+        <entry file="file://$PROJECT_DIR$/src/constructor/EntryExecutions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rtnType/AmazonHub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homePage/tabs/amazonHome/AmazonHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homePage/tabs/prime/PrimePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homePage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -144,6 +89,10 @@
         <option value="$PROJECT_DIR$/src/EngineOfEntry.java" />
         <option value="$PROJECT_DIR$/src/loopsInJava/AdvancedCoding.java" />
         <option value="$PROJECT_DIR$/src/loopsInJava/ArrayClass.java" />
+        <option value="$PROJECT_DIR$/src/constructor/EntryExecutions.java" />
+        <option value="$PROJECT_DIR$/src/constructor/Home.java" />
+        <option value="$PROJECT_DIR$/src/strProblem/TestStriongs.java" />
+        <option value="$PROJECT_DIR$/src/strProblem/TestStrings.java" />
       </list>
     </option>
   </component>
@@ -170,12 +119,6 @@
               <item name="MayJavaFirst" type="b2602c69:ProjectViewProjectNode" />
               <item name="MayJavaFirst" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MayJavaFirst" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MayJavaFirst" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loopsInJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MayJavaFirst" type="b2602c69:ProjectViewProjectNode" />
@@ -208,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayClass">
+  <component name="RunManager" selected="Application.TestStrings">
     <configuration name="AdvancedCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loopsInJava.AdvancedCoding" />
       <module name="MayJavaFirst" />
@@ -248,19 +191,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EngineOfEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EngineOfEntry" />
+    <configuration name="EntryExecutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.EntryExecutions" />
       <module name="MayJavaFirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExeEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticNoStatic.ExeEngine" />
+    <configuration name="TestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strProblem.TestStrings" />
       <module name="MayJavaFirst" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticNoStatic.*" />
+          <option name="PATTERN" value="strProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStrings" />
+        <item itemvalue="Application.EntryExecutions" />
         <item itemvalue="Application.ArrayClass" />
         <item itemvalue="Application.AdvancedCoding" />
         <item itemvalue="Application.AmazonHub" />
-        <item itemvalue="Application.EngineOfEntry" />
-        <item itemvalue="Application.ExeEngine" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +253,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Avro/Parquet Viewer" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.24381626" />
+      <window_info anchor="bottom" id="Terminal" weight="0.2614841" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,13 +289,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18643">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/headers/ProfilePage.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -426,6 +368,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/loopsInJava/ArrayClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strProblem/TestStriongs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructor/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructor/EntryExecutions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1822">
+          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strProblem/TestStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
