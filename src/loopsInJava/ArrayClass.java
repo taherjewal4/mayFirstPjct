@@ -24,6 +24,9 @@ public class ArrayClass {
 
 //        System.out.println(str[3]);
 
+
+        System.out.println("test");
+
         try {
             System.out.println(str[3]);
 
