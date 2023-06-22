@@ -39,16 +39,32 @@ public class EngineOfEntry {
 //            System.out.println("The statement is false");
 //        }
 
+        String n = new String();
+        n = "mae";
+        System.out.println(n);
 
         if (num < 5 && num < 15) { // both has to be ture
+
             System.out.println("The statement in true with and && ");
+
         } else if (num < 5 || num > 15) {  // one of them has to be true
+
             System.out.println("The statement in true with and || ");
+
         } else {
+
             System.out.println("Non of them are correct");
         }
 
 
-    }
+//        == means eaqual to (2 == 2) true
+//
+//        != mean notEqual to (2 != 2) false
 
-}
+//        % mean remainder  2 % 5 = 1
+
+//
+//
+//
+
+    }}
